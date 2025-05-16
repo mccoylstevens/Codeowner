@@ -1,0 +1,6 @@
+Unknown owner on line 4: make sure the team @microsoft/octo-semantickernel-pr-dotnet exists, is publicly visible, and has write access to the repository
+/dotnet/ @microsoft/octo-semantickernel-pr-dotnet
+Unknown owner on line 9: make sure the team @microsoft/octo-semantickernel-pr-python exists, is publicly visible, and has write access to the repository
+/python/ @microsoft/octo-semantickernel-pr-python
+Unknown owner on line 14: make sure the team @microsoft/octo-semantickernel-pr-java exists, is publicly visible, and has write access to the repository
+/java/ @microsoft/octo-semantickernel-pr-java
